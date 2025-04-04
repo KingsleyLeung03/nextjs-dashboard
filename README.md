@@ -9,6 +9,7 @@ This project is a comprehensive dashboard application built with Next.js, based 
 *   **Authentication:** Shows a basic authentication flow.
 *   **Responsive Design:** The dashboard is designed to be responsive and adapt to different screen sizes.
 *   **UI Components:** Includes a set of reusable UI components for building the dashboard interface.
+*   **Neon Postgres:** Uses Neon's Postgres database.
 
 ### Differences
 
