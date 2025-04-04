@@ -1,5 +1,7 @@
 ## Next.js Dashboard Application
 
+![Open Graph Image](/app/opengraph-image.png)  
+
 This project is a comprehensive dashboard application built with Next.js, based on the starter template for the Next.js App Router Course, showcasing the power of the App Router, server components, and modern web development practices. It's designed to be a practical example for learning and building real-world applications.
 
 ### Key Features
